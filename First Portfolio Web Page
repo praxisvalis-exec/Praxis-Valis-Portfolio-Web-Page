@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8">
+	<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" rel="stylesheet" />
+	<title>Sarah Amechazurra, Software Developer</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style type="text/css">body {background-color: #C850C0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+h1 {
+  font-style: oswald;
+  font-size: 60px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
+  text-align: center;
+}
+h2 {
+  font-style: oswald;
+  font-size: 60px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  color: #000000;
+  text-align: center;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: black;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+	</style>
+</head>
+<body>
+    <ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">About</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Projects</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Skills</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Contact</a>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+  </li>
+</ul>
+
+<h1>SARAH AMECHAZURRA</h1>
+<p></p>
+<h1>FRONT END WEB DEVELOPER</h1>
+<p>
+  <!npm i bootstrap-icons>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="card">
+  <img src="https://marketing-assets.teamtreehouse.com/student_stories/production/student_stories/primary_Sarah_Amechazurra.jpeg" alt="Sarah" style="width:100%">
+  <h2>Hello, I'm Sarah</h2>
+  <p class="title">Front End Web Developer</p>
+  <p>I am a front end web developer with  penchant for web design and a deep understanding of the
+HTML, CSS and JavaScript concepts necessary to build beautiful
+functioning front-end web sites. I have a deep understanding of the tools
+and software needed to be efficient at what I do. I'm an academic at heart.
+A habitual student learning and improving my meta-cognition. Also,
+I am committed to improving and mastering my skills as
+versatile web developer. I build fantastic functional web applications, this enthralls me!
+  <p></p>
+  <p class="title">Goals</p>
+  I want to master the process of building web sites and increase my knowledge, skills and abilities in: HTML/CSS, Responsive Web Design, JavaScript, Python, Django, SQL, Node.js, React.js
+<p>I would love to work for a web design firm helping clients create an impressive online presence.</p>
+  <p>So, what's next for Sarah? Follow along her journey on Instagram to stay updated on what she's doing next.
+</p>
+  
+  <a href="https://www.instagram.com/sarahandthecode/"><i class="fa fa-instagram"></i></a>
+  <a href="https://www.linkedin.com/in/sametxa/"><i class="fa fa-linkedin"></i></a>
+  <a href="https://github.com/praxisvalis-exec"><i class="fa fa-github"></i></a>
+  <p><button>Contact</button></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script> </span></span></span></p>
+
+<p><span style="font-size:26px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-family:courier new,courier,monospace;"><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script> </span></span></span></p>
+</body>
+</html>
